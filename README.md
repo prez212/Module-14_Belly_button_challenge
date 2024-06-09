@@ -6,7 +6,11 @@ The challenge is to apply the advanced data visualization techniques using JavaS
 
 Refrences:
 https://plotly.com/javascript/colorscales/
+
 https://plotly.com/python/bar-charts/
+
 https://robdunnlab.com/projects/belly-button-biodiversity/
+
 https://github.com/vt-bekah/belly-button-challenge/blob/main/static/js/app.js
-https://github.com/candidamg/belly-button-challenge/tree/main/static/js
+
+https://github.com/mychele-larson/Belly-Button-Challenge/tree/main
