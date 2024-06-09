@@ -89,7 +89,7 @@ function hbarChart(selectedId) {
         margin: {
             l: 100,
             r: 100,
-            t: 0,
+            t: 100,
             b: 100,
         },
         height: 500,
