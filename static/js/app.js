@@ -86,15 +86,10 @@ function hbarChart(selectedId) {
 
     // Define the layout of the bar chart
     let layout = {
-        margin: {
-            l: 100,
-            r: 100,
-            t: 100,
-            b: 100,
-        },
+        xaxis: {title: { text: "Number of Bacteria" },},
+        title: "Top Ten Bacteria Found",
         height: 500,
-        width: 600,
-       
+        width: 400,
     };
 
     // Plot the bar chart
@@ -128,9 +123,10 @@ function bubbleChart(selectedId) {
 
     // Define the layout of the bubble chart
     let layout = {
-        xaxis: {
-            title: { text: "OTU ID" },
-        },
+        title: "Bacteria Cultures Per Sample",
+        xaxis: {title: { text: "OTU ID" },},
+        yaxis: {title: { text: "Number of Bacteria" },},
+        
     };
 
     // Plot the bubble chart
