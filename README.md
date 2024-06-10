@@ -1,7 +1,7 @@
 # Module-14_Belly_button_challenge
 UofT Data Analytics Bootcamp
 
-The challenge is to apply the advanced data visualization techniques using JavaScript, HTML and D3 libraries,to create an interactive dashboard that explores Belly Button Biodiversity dataset. Data set is located in samples.json 
+The challenge is to apply the advanced data visualization techniques using JavaScript, HTML and D3 libraries,to create an interactive dashboard that explores Belly Button Biodiversity dataset. Data set is located in Sup/samples.json 
 
 To run: 
 
@@ -11,7 +11,7 @@ cd into Module-14_Belly_button_challenge
 
 open index.html
 
-![image](https://github.com/prez212/Module-14_Belly_button_challenge/blob/main/DashboardSnippet.PNG)
+![image](https://github.com/prez212/Module-14_Belly_button_challenge/blob/main/Sup/DashboardSnippet.PNG)
 
 Refrences:
 
