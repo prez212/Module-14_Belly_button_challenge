@@ -11,7 +11,7 @@ cd into Module-14_Belly_button_challenge
 
 open index.html
 
-https://github.com/prez212/Module-14_Belly_button_challenge/blob/main/DashboardSnippet.PNG
+![image](https://github.com/prez212/Module-14_Belly_button_challenge/blob/main/DashboardSnippet.PNG)
 
 Refrences:
 
